@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
 
-  "name": "Getting started example",
+  "name": "EasyMSLP",
   "description": "This extension allows to immediately download imslp hosted files without waiting",
   "version": "1.0",
   "content_scripts": [{
